@@ -25,6 +25,7 @@ public class Main {
 
     }
 }
+//NOTE: coderslab lesson. finished OOP.
 
 //Methods.printIrrArray(irregularVerbs.irregularVerbsArray);
 

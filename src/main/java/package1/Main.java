@@ -22,10 +22,10 @@ public class Main {
             case 2 -> Methods.fillSecondThirdVerbALL();
             //case 3 -> method that allow user to choose how many irregularVerbs he want try
         }
-
     }
 }
-//NOTE: sql-lesson2 coderslab
+
+//SQL - ex -monday
 
 //Methods.printIrrArray(irregularVerbs.irregularVerbsArray);
 
